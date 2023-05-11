@@ -36,7 +36,7 @@ http://51.79.221.252:8080/live/Arvi60/ams60/3.ts
 #EXTVLCOPT:http-user-agent=stream
 https://beetv.my.id/x/oxygen-indosiar-gojokkk.m3u8
 
-EXTINF:-1 tvg-ID="2" tvg-name="SCTV.id" group-title="LOKAL" tvg-logo="https://macan.network/img/sctv.png",SCTV HD
+#EXTINF:-1 tvg-ID="2" tvg-name="SCTV.id" group-title="LOKAL" tvg-logo="https://macan.network/img/sctv.png",SCTV HD
 #EXTVLCOPT:http-user-agent=stream
 http://beetv.my.id/x/usee-sctv-gojokkk.m3u8
 
@@ -96,7 +96,7 @@ http://rr2.dens.tv/s/s13/01.m3u8
 http://210.210.155.35/session/743b191e-6fcd-11e9-a2e4-c81f66f89318/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.macan.tv/img/ochannel.png" group-title="LOKAL",MOJI HD
-http://tvnid.x10.mx/1/master-2.m3u8
+https://beetv.my.id/x/oxygen-moji-gojokkk.m3u8
 
 ## News ##
 
@@ -231,16 +231,20 @@ http://iptvid.my.id/hmm/Arvi89/arviams18031989/hitsmovie.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/warnertv.png", WARNER TV
 https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXNHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/axn.png", AXN
+#EXTINF:-1 tvg-id="2" tvg-name="AXNHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/axn.png", AXN
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/axn.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="MOVIE",MY CINEMA ASIA
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="MOVIE",MY CINEMA ASIA
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/mycinemaasia.m3u8
 
-#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="mycinema.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/mycinema.png", MY CINEMA CHANNEL
+#EXTINF:-1 tvg-id="2" tvg-name="mycinema.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/mycinema.png", MY CINEMA CHANNEL
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/mycinema.m3u8
 
-#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="myfamilychannel.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/myfamilychannel.png", MY FAMILY CHANNEL
+#EXTINF:-1 tvg-id="2" tvg-name="myfamilychannel.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/myfamilychannel.png", MY FAMILY CHANNEL
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/myfamily.m3u8
 
 #EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="myfamilychannel.MACAN" group-title="MOVIE" tvg-logo="", MY CINEMA EUROPE
@@ -248,7 +252,8 @@ http://210.210.155.37/uq2663/h/h18/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-id="KIX.MACAN" tvg-ngroup-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/kix.png", KIX
+#EXTINF:-1 tvg-id="2" tvg-ngroup-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/kix.png", KIX
+#EXTVLCOPT:http-user-agent=stream
 https://av-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -259,16 +264,20 @@ https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Kplus" tvg-logo="https://i.postimg.cc/nc8wBxtQ/K-plus.png" group-title="MOVIE",K+ KOREA
 http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-ID="tvN" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn.png",tvN
+#EXTINF:-1 tvg-ID="2" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn.png",tvN
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/tvn.m3u8
 
-#EXTINF:-1 tvg-ID="tvN Movies" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn_movies.png",tvN Movies
+#EXTINF:-1 tvg-ID="2" group-title="MOVIE" tvg-logo="https://macan.network/img/tvn_movies.png",tvN Movies
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/tvnmovies.m3u8
 
-#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="GEMChannel.id" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/gem.jpg", SONY GEM TV
+#EXTINF:-1 tvg-id="2" tvg-name="GEMChannel.id" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/gem.jpg", SONY GEM TV
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/sgem.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONE" tvg-logo="https://i.postimg.cc/6TsVZB26/One-logo-small-0.png" group-title="MOVIE",SONY ONE
+#EXTINF:-1 tvg-id="2" tvg-name="SONE" tvg-logo="https://i.postimg.cc/6TsVZB26/One-logo-small-0.png" group-title="MOVIE",SONY ONE
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/sone.m3u8
 
 #EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="BlueAntEntertainment.id" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png", Rock Entertainment
@@ -297,17 +306,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfH1WvR4/a327.webp"group-title="VIP SPORTS",SOCCER TV
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTVLCOPT:http-user-agent=stream
+
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/transtv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkqyGwM2/images.jpg" group-title="VIP SPORTS",USEE SPORTS 1
+#EXTINF:-1 tvg-id="2"tvg-logo="https://i.postimg.cc/VkqyGwM2/images.jpg" group-title="VIP SPORTS",USEE SPORTS 1
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/useesport.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkqyGwM2/images.jpg" group-title="VIP SPORTS",USEE SPORTS 2
+#EXTINF:-1 tvg-id="2"tvg-logo="https://i.postimg.cc/VkqyGwM2/images.jpg" group-title="VIP SPORTS",USEE SPORTS 2
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/useesports2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLLPPJtt/Spotv.png"group-title="VIP SPORTS",SPOTV 1 ID
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/fLLPPJtt/Spotv.png"group-title="VIP SPORTS",SPOTV 1 ID
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/spotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -317,7 +329,8 @@ https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLLPPJtt/Spotv.png"group-title="VIP SPORTS",SPOTV 2
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/fLLPPJtt/Spotv.png"group-title="VIP SPORTS",SPOTV 2
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/spotv2.m3u8
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/fLLPPJtt/Spotv.png"group-title="VIP SPORTS",SPOTV 2*
@@ -338,13 +351,15 @@ https://tvn10.xyz/vidio/master-10.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFW875qB/be-IN-SPORTS.png" group-title="VIP SPORTS",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/RFW875qB/be-IN-SPORTS.png" group-title="VIP SPORTS",BEIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/bein1.m3u8
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/yNX21X5M/images.jpg" group-title="VIP SPORTS",BEIN SPORTS 2 HD
 http://reddevil.life:8080/play/live.php?mac=00:1a:79:47:f7:1f&stream=145012&extension=ts&play_token=qPv8Wqc5KM
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNX21X5M/images.jpg" group-title="VIP SPORTS",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.postimg.cc/yNX21X5M/images.jpg" group-title="VIP SPORTS",BEIN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=stream
 http://iptvid.my.id/hmm/Arvi89/arviams18031989/bein2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52Zc39pY/RTM-Sports.png" group-title="VIP SPORTS",SUKAN RTM
@@ -498,39 +513,58 @@ http://octopustv.vip/ismail/121314/182526
 #EXTINF:-1 tvg-ID="https://i.imgur.com/x1sG33k.png" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/ngc.png",G20 INDONESIA TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="NatGeo.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/ngc.png",National Geographic
 http://51.79.221.252:8080/live/Arvi60/ams60/65.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="NatGeoWild.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/natgeowild.png", NatGeo Wild
-http://51.79.221.252:8080/live/Arvi60/ams60/66.ts
+https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBCEarth.MACAN" group-title="KNOWLEDGE" tvg-logo="https://cdn.macan.tv/img/bbc_earth.png", BBC Earth
 http://51.79.221.252:8080/live/Arvi60/ams60/68.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="AnimalPlanet.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/animalplanet.png", Animal Planet
 http://51.79.221.252:8080/live/Arvi60/ams60/67.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="LoveNature.uk" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/love_nature.png",Love Nature
 http://51.79.221.252:8080/live/Arvi60/ams60/72.ts
 
-#EXTINF:-1 tvg-logo=" group-title="KNOWLEDGE",In Wild
-http://51.79.221.252:8080/live/Arvi60/ams60/75.ts
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="DiscoveryChannel.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/discoverychannel.png", Discovery Channel HD
 http://51.79.221.252:8080/live/Arvi60/ams60/64.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="Discovery Asia" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/discoveryasia.png", Discovery Asia
 http://51.79.221.252:8080/live/Arvi60/ams60/74.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="HistoryChannel.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/history.png",HISTORY HD
 http://51.79.221.252:8080/live/Arvi60/ams60/69.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="HGTV" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/hgtv.png",HGTV
 http://51.79.221.252:8080/live/Arvi60/ams60/77.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="AFC" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/vH6BqRcs/1200px-Asian-Food-Network-svg.png",AFN
 http://210.247.248.113:25461/live/Arvi60/ams60/80.ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-ID="TLC.id" group-title="KNOWLEDGE" tvg-logo="https://macan.network/img/tlc.png",TLC
 https://delivery.macan.network/stream/tlc/playlist.m3u8?token=0t348&v=20200807
 
